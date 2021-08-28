@@ -1,0 +1,24 @@
+#body {
+    background-color: black;
+    text-align: center;
+}
+
+#Nasa-Api-Heading {
+    text-align: center;
+    color: blueviolet;
+}
+
+#nasa-pic {
+    height: 750px;
+    width: 750px;
+}
+
+#earth-pic {
+    height: 300px;
+    width: 300px;
+    align-items: center;
+}
+
+#content {
+    color: white;
+}
